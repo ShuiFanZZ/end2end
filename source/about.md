@@ -1,11 +1,41 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# Education
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+<img src="/webpage/images/uci.png" alt="drawing" width="80" align="left"/>
+#### University of California, Irvine (2021 - present)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+- Master of Science in Computer Science
+- GPA: 3.87
+
+
+
+<img src="/webpage/images/uoft.png" alt="drawing" width="80" align="left"/>
+#### University of Toronto (2015 - 2020)
+
+- Honors Bachelor of Science, Computer Science
+- GPA: 3.76
+
+
+# Work
+#### Veeva Systems (05/2018 - 08/2019)
+- RIM Team
+- Intern Software Engineer, full-stack
+- Java, Spring Framework, React, SQL
+
+
+# Skills
+#### Programming: 
+###### Python, C/C++, Java, HTML, JavaScript, SQL
+#### Libraries/Tools: 
+###### PyTorch, TensorFlow, Scikit, CUDA, OpenMP, MPI
+#### Software: 
+###### Adobe, Microsoft Office Suite, Unity3D, Blender
+#### Languages:
+###### Chinese (Mandarin), English, Japanese 
+#### Courses: 
+###### Algorithm & Data Structures, Machine Learning, Operating Systems, Embedded Systems, Computer Networks, Compilers, Computer Graphics, Distributed Systems, Parallel Computing

@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Particle Simulation Optimization"
+description: "A parallel programming project using OpenMP and MPI."
+date:   2015-11-12 19:19:43
+keywords: "Parallel Prgramming, HPC, OpenMP, MPI, Scientific Computing"
+comments: false
+image: /images/particle.gif
+category: welcome
+---
+<p style="text-align:center;">
+<img src="/webpage/images/particle.gif" alt="drawing" width="300">
+</p>
+ Computer simulation is a typical practice in the field of scientific computing. Large-scale simulation often requires large amount of computational power and takes a long time to run. How to parallelize the process in order to achieve higher performance is one of the biggest challenges in this field. In this project, we implemented a particle simulation program. Particles move with different speed and directions in a 2D space, and will change their movement when hitting each other. The goal of this project is to optimize this program with parallel programming to reduce the running time as much as possible. 
+
+[Report 1](/webpage/files/particle1.pdf)
+
+[Report 2](/webpage/files/particle2.pdf) 
+
+[Code](https://gitfront.io/r/ShuiFanZZ/mgbtUyaeVH42/particle-simulation/)

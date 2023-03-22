@@ -1,5 +1,5 @@
 # Build settings
-permalink: /blog/:year/:title/
+permalink: /projects/:title/
 markdown: kramdown
 highlighter: pygments
 plugins: [jekyll-paginate-v2]
@@ -18,37 +18,37 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
+title: webpage
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/end2end"
+url: http://shuifanzz.github.io
+baseurl: "/webpage"
 
 google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
+repo: http://github.com/ShuiFanZZ/webpage
+disqus_shortname: "shuifanzz"
+disqus_site_shortname: "shuifanzz"
 
 # Author settings
 author:
-  name: Fernando Moreira
-  job: Frontend Engineer
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name: Zezhong Pan
+  job: Machine Learning and Software Engineer
+  bio: "A passionate and quick learner, always looking for the best project and good coffee."
   thumb: /images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
-  twitter: https://twitter.com/umdevux
-  facebook: https://facebook.com/umdevux
-  linkedin: https://linkedin.com/in/nandomoreirame
+  email: zezhongpan@gmail.com
+  url: https://shuifanzz.github.io/webpage
+  github: https://github.com/ShuiFanZZ
+  twitter: 
+  facebook: 
+  linkedin: https://linkedin.com/in/zezhongpan
 
 # navbar pages
 navbar:
   - slug: about
     title: About
-  - slug: icons
-    title: Icons
-  - slug: blog
-    title: Blog
+  # - slug: icons
+  #   title: Icons
+  - slug: projects
+    title: Projects
 
 exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
